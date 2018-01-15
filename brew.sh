@@ -35,6 +35,7 @@ brew install heroku
 brew install openssl
 brew install xz
 brew install telnet
+brew install wget
 
 # Remove outdated versions from the cellar.
 brew cleanup
