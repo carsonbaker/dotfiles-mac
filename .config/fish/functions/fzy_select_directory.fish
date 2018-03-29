@@ -1,0 +1,1 @@
+/Users/carson/.config/fisherman/fzy/functions/fzy_select_directory.fish

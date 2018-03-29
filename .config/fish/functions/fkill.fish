@@ -1,0 +1,1 @@
+/Users/carson/.config/fisherman/fzy/functions/fkill.fish
