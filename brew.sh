@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -e
+
 # Install command-line tools using Homebrew.
 
 # Make sure we’re using the latest Homebrew.
@@ -28,7 +30,7 @@ brew install neovim
 brew install git
 brew install tree
 brew install fzf
-brew isntall ag
+brew install ag
 brew install heroku
 brew install openssl
 brew install telnet
