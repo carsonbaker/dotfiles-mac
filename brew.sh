@@ -25,7 +25,6 @@ if ! fgrep -q '/brew/bin/fish' /etc/shells; then
   chsh -s /brew/bin/fish;
 fi;
 
-# Install more recent versions of some macOS tools.
 brew install neovim
 brew install git
 brew install tree
@@ -38,6 +37,8 @@ brew install wget
 brew install fd
 brew install rbenv
 brew install awscli
+brew install postgresql
+brew install ccrypt
 brew install
 
 # Remove outdated versions from the cellar.
